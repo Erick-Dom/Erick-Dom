@@ -55,5 +55,7 @@
 ![Pacman](https://github-pacman.techinpark.dev/api/github-pacman?username=Erick-Dom)
 
 ###
+![Snake animation](https://github.com/Erick-Dom/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
+
 
 
