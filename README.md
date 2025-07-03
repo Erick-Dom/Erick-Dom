@@ -45,14 +45,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erick-Dom/Erick-Dom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erick-Dom/Erick-Dom/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Erick-Dom/Erick-Dom/output/pacman-contribution-graph.svg">
-</picture>
-## 🕹️ Diversão com Contribuições
-
-![Pacman](https://github-pacman.techinpark.dev/api/github-pacman?username=Erick-Dom)
 
 ###
 ![Snake animation](https://github.com/Erick-Dom/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
