@@ -52,6 +52,5 @@
 </picture>
 
 ###
-https://erick-dom.github.io/snk/
-![Pac-Man](https://github.com/Erick-Dom/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
+
 
