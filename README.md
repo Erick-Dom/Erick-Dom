@@ -45,5 +45,6 @@
 
 
 
-###
-![Snake animation](https://github.com/Erick-Dom/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
+![Pac-Man Animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg)
+
+
