@@ -34,7 +34,7 @@ Estou em busca da minha primeira oportunidade na área.
 - Em breve: meu primeiro projeto de API REST com Java e Spring Boot
 
 ### 📫 Contato
-<a href="https://www.linkedin.com/in/httericksantos-python/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ErickDeev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn"/></a>
 <a href="mailto:erick.deev07@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="E-mail"/></a>
 
 ![pacman contribution graph](https://raw.githubusercontent.com/ERICK-DOM/ERICK-DOM/output/pacman-contribution-graph.svg)
